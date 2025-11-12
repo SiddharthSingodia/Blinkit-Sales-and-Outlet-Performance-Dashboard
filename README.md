@@ -43,7 +43,6 @@ The dataset represents BlinkIT’s grocery sales records, combining product and 
 - `Outlet_Location_Type` → Tier 1 / Tier 2 / Tier 3.  
 - `Outlet_Type` → Grocery Store, Supermarket Type1, etc.
 
----
 
 ## 🧹 Data Cleaning & Preprocessing
 Performed using SQL (as documented in *Query Doc (1).docx*).
