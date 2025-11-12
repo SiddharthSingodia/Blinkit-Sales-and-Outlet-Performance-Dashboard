@@ -44,19 +44,7 @@ The dataset represents BlinkIT’s grocery sales records, combining product and 
 - `Outlet_Type` → Grocery Store, Supermarket Type1, etc.
 
 
-## 🧹 Data Cleaning & Preprocessing
-Performed using SQL (as documented in *Query Doc (1).docx*).
 
-### 1. Standardized Fat Content
-Inconsistent values such as “LF”, “low fat”, and “reg” were unified:
-```sql
-UPDATE blinkit_data
-SET Item_Fat_Content =
-  CASE
-    WHEN Item_Fat_Content IN ('LF', 'low fat') THEN 'Low Fat'
-    WHEN Item_Fat_Content = 'reg' THEN 'Regular'
-    ELSE Item_Fat_Content
-  END;
 ---
 
 ## 🧹 Data Cleaning & Preprocessing
