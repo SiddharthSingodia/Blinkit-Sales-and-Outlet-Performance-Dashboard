@@ -1,4 +1,4 @@
-![BlinkIT Power BI Dashboard](./5ab0035f-379a-45f2-acb3-aecdd8c6fee3.png)
+![BlinkIT Power BI Dashboard](./Screenshot%202025-11-12%20164033.png)
 
 # 🛒 BlinkIT Grocery Data Analysis Project
 
@@ -104,7 +104,7 @@ The **Power BI Dashboard (`Blinit.pbix`)** visualizes the key performance metric
 
 ### 🖼️ Dashboard Preview
 
-![BlinkIT Power BI Dashboard](./5ab0035f-379a-45f2-acb3-aecdd8c6fee3.png)
+![BlinkIT Power BI Dashboard](./Screenshot%202025-11-12%20164033.png)
 
 > 💬 *The dashboard displays total sales of $1.20M, average sales of $141 per item, and an average rating of 3.9 across 8,523 items. It also visualizes sales distribution by outlet size, location type, and product category for deep business insights.*
 
